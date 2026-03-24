@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working as a Research Assistant at the University of Warwick as part of The Zeeman Institute for Systems Biology & Infectious Disease Epidemiology Research (SBIDER)
 
 - 🌱 I have an MSc in Statistics (with Distinction) from the University of Warwick and an MEng in Mechanical Engineering
+
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithuub.com%2F[srinivas-calindi]%2F[srinivas-calindi]&label=PROFILE%20VIEWS&countColour=%23263159)

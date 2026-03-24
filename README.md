@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working as a Research Assistant at the University of Warwick as part of The Zeeman Institute for Systems Biology & Infectious Disease Epidemiology Research (SBIDER)
+
+- 🌱 I have an MSc in Statistics (with Distinction) from the University of Warwick and an MEng in Mechanical Engineering

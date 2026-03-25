@@ -25,7 +25,9 @@ Here are some ideas to get you started:
 
 - 🌱 I have an MSc in Statistics (with Distinction) from the University of Warwick and an MEng in Mechanical Engineering
 
+<!--
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithuub.com%2F[srinivas-calindi]%2F[srinivas-calindi]&label=visitors&countColour=%23263159)
+-->
 
 <div id = "header" align ="left">
   

@@ -15,8 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<a href="http://www.linkedin.com/in/s-c-201581177">
+  <img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png"  />
+</a>
+
+<br />
+
 - 🔭 I’m currently working as a Research Assistant at the University of Warwick as part of The Zeeman Institute for Systems Biology & Infectious Disease Epidemiology Research (SBIDER)
 
 - 🌱 I have an MSc in Statistics (with Distinction) from the University of Warwick and an MEng in Mechanical Engineering
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithuub.com%2F[srinivas-calindi]%2F[srinivas-calindi]&label=visitors&countColour=%23263159)
+
+<div id = "header" align ="left">
+  
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=srinivas-calindi.srinivas-calindi)
